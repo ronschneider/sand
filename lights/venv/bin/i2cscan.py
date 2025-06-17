@@ -1,4 +1,4 @@
-#!/home/pi/ron/lights/venv/bin/python3
+#!/home/pi/sand/lights/venv/bin/python3
 # -*- coding: utf-8 -*-
 
 # Copyright (c) 2018-2024, Emmanuel Blot <emmanuel.blot@free.fr>

@@ -1,4 +1,4 @@
-#!/home/pi/ron/lights/venv/bin/python3
+#!/home/pi/sand/lights/venv/bin/python3
 
 # Copyright (c) 2019-2024, Emmanuel Blot <emmanuel.blot@free.fr>
 # All rights reserved.

@@ -1,4 +1,4 @@
-#!/home/pi/ron/lights/venv/bin/python3
+#!/home/pi/sand/lights/venv/bin/python3
 
 """Simple FTDI EEPROM configurator.
 """

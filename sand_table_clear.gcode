@@ -1,5 +1,6 @@
 G21 ; Set units to millimeters
 G90 ; Use absolute positioning
+F2000
 G00 X0 Y0 ; Move to starting position
 G01 X0 Y0 F1000 ; Draw line to left
 G01 X850 Y0 F1000 ; Draw line to right
